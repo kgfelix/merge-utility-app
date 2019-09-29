@@ -1,6 +1,6 @@
-= Merge Utility App
+=Merge Utility App
 
-== Introduction
+==Introduction
 
 A command line utility that combines the contents from a list of PDF files into a single PDF file.
 
