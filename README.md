@@ -39,7 +39,7 @@ Where:
 A full example invocation could look like this:
 
 ```
-java -jar .\merge-utility-app-1.0-SNAPSHOT-jar-with-dependencies.jar merge -f pdf -t c:/svn/novo.pdf -s c:/svn/file.pdf c:/svn/teste4.pdf
+java -jar merge-utility-app-1.0-SNAPSHOT-jar-with-dependencies.jar merge -f pdf -t c:/svn/novo.pdf -s c:/svn/file.pdf c:/svn/teste4.pdf
 ```
 
 ## Build Project
