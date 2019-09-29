@@ -16,9 +16,13 @@ The project use Maven to:
 * Maven (Only if you want to build the project);
 * JDK 8 or higher (Only if you want to build the project);
 
-## Usage
+## Download
 
-The "target" folder contains the latest version of the project already builded.
+Get the merge-utility-app-1.0-SNAPSHOT-jar-with-dependencies.jar of the latest version available from:
+
+https://drive.google.com/open?id=1dCM3vwFbK-lPfoGVs0Shq51u0yJOnfqZ
+
+## Usage
 
 The command 
 
@@ -40,7 +44,7 @@ java -jar .\merge-utility-app-1.0-SNAPSHOT-jar-with-dependencies.jar merge -f pd
 
 ## Build Project
 
-If you want to build the project enter the command in the main folder:
+If you want to build the project, you can clone this project and enter the command in the main folder:
 
 ```
 mvn clean install
